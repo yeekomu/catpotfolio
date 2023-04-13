@@ -1,0 +1,41 @@
+html {
+  font-family: "Courier New",Monaco, Helvetica, monospace;
+    
+  background-color: #C3B1E1;
+  text-align: center;
+}
+
+head {
+  font-size: 2em;
+  margin: auto;
+  width: 50%;
+  
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.traits {
+  text-align: left;
+}
+
+table, th, td {
+  text-align: justify;
+  
+  margin: auto;
+  
+  height: 100px;
+  
+  border: 1px solid black;
+  border-collapse: collapse
+}
+
+td {
+	width: 30%;
+}
+
+.randomcat{
+  background-color: green;
+}
